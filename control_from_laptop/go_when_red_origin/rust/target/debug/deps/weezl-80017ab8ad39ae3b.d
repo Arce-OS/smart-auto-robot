@@ -1,0 +1,10 @@
+/Users/jianyuhou/Desktop/go_when_red_origin/rust/target/debug/deps/weezl-80017ab8ad39ae3b.rmeta: /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/lib.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/decode.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/encode.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/error.rs
+
+/Users/jianyuhou/Desktop/go_when_red_origin/rust/target/debug/deps/libweezl-80017ab8ad39ae3b.rlib: /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/lib.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/decode.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/encode.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/error.rs
+
+/Users/jianyuhou/Desktop/go_when_red_origin/rust/target/debug/deps/weezl-80017ab8ad39ae3b.d: /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/lib.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/decode.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/encode.rs /Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/error.rs
+
+/Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/lib.rs:
+/Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/decode.rs:
+/Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/encode.rs:
+/Users/jianyuhou/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/weezl-0.1.7/src/error.rs:

@@ -1,0 +1,23 @@
+[package]
+name = "go_when_red"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+multipart-stream = "0.1.2"
+zune-jpeg = "0.3.17"
+imageproc  = "0.23.0"
+tokio = {version = "1.32.0", features = ["rt-multi-thread", "macros"]}
+hyper = {version = "0.14", features = ["http1", "http2", "client", "tcp", "stream"]}
+mime = "0.3.17"
+http = "0.2.9"
+futures = "0.3.28"
+image = "0.24.7"
+zune-core = "0.2.14"
+color-rs = "0.8.0"
+angle = "0.5.0"
+
+[patch.crates-io]
+multipart-stream = { path = 'src/patch/multipart-stream-rs' }
